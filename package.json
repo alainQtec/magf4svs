@@ -6,7 +6,7 @@
   "author": "Divy Jain <dkj@somaiya.edu>",
   "license": "MIT",
   "dependencies": {
-    "d3": "^6.2.0",
+    "d3": "^7.9.0",
     "jsdom": "^16.4.0",
     "node-fetch": "^2.6.1"
   }
