@@ -8,6 +8,6 @@
   "dependencies": {
     "d3": "^6.2.0",
     "jsdom": "^16.4.0",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   }
 }
